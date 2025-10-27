@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/DivinerSun/Exercism/compare/v1.0.0...v1.1.0) (2025-10-27)
+
+
+### Features
+
+* 字符串/迭代器学习并实践 ([d4e94dc](https://github.com/DivinerSun/Exercism/commit/d4e94dc39d9236eb054a409ad26cdae10939a6bf))
+
 ## 1.0.0 (2025-10-27)
 
 
